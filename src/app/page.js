@@ -9,6 +9,7 @@ export default function Home() {
 
        <p>Hi its sama ,i cloned project and added this paragraph</p>
        
+       <p>I tested the pull request 😊</p>
     </div>
   );
 }
